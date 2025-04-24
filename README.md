@@ -28,7 +28,7 @@ Mods ini sangat berguna untuk meningkatkan performa hingga lebih dari 5x. Mereka
 
 # Other Mods List
 
-(kosong untuk sekarang)
+Mods yang lain yang gw pasang ada di sini: [ALL.md](ALL.md)
 
 ## Client Dependant Server Mods
 
