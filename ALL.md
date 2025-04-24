@@ -1,4 +1,4 @@
-# ALl Of My Minecraft Mods
+# All Of My Minecraft Mods
 
 Be sure to check version compatiblity with your minecraft version. By the time this was created, it supported version 1.21.5.
 Some mods may have configuration files that has to be set BTW.
