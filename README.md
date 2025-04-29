@@ -43,6 +43,7 @@ Mods yang wajib diinstall untuk bisa masuk ke server kita.
 | Cloth Config API | [Modrinth](https://modrinth.com/mod/cloth-config) | Configuration API used by many mods for settings management. |
 | Sit | [Modrinth](https://modrinth.com/mod/bl4cks-sit) | Allows players to sit on blocks like stairs and slabs. |
 | Simple Voice Chat | [Modrinth](https://modrinth.com/plugin/simple-voice-chat) | Implements proximity voice chat functionality in-game. |
+| Terrastorage | [Modrinth](https://modrinth.com/mod/terrastorage) | Quality of Life storage system |
 
 ### Optional Mods [Fabric]
 
